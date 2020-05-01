@@ -1,0 +1,11 @@
+name: Varo
+version: 0.3
+main: de.kaes3kuch3n.varo.VaroPlugin
+description: Varo plugin for AirPlayOne
+author: Kaes3kuch3n
+website: http://kaes3kuch3n.no-ip.org/
+
+commands:
+    varo:
+        usage: Syntax error! Please use /varo
+        description: Displays plugin info
